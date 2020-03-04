@@ -1,4 +1,6 @@
 # neural-style-tf
+*Original description from the fork below. I pretty much just forked it to update to tensorflow 2.0 and mess around with it to get a better understanding of how it works.*
+
 
 This is a TensorFlow implementation of several techniques described in the papers: 
 * [Image Style Transfer Using Convolutional Neural Networks](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
