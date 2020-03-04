@@ -1,0 +1,1 @@
+python neural_style2.py --content_img "C:\Users\jerem\Documents\Python\neural-style-tf\image_input\mittenwald.jpg" --style_imgs "C:\Users\jerem\Documents\Python\neural-style-tf\styles\starry-night.jpg"
